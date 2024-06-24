@@ -10,7 +10,7 @@
 
 <body>
     <div class="conatiner">
-        <h1> text and URL</h1>
+        <h1 style="text-align:center"> Text and URL</h1>
 
         <div class="inimg">
             <input type="text" placeholder="Text or URL" id="qrText">
