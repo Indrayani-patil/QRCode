@@ -17,6 +17,10 @@ body{
     transform: translate(-50%,-50%);
     background: #f8f3f3;
     border-radius: 10px ;
+    background: #a6a8e7;  
+}
+.conatiner h1 span{
+    color: crimson;
 }
 .inimg{
     width: 50px;
@@ -28,7 +32,6 @@ body{
     align-items: center;
     justify-content: space-between;
     border-radius: 5px;
-    
 }
 .inimg  img{
     cursor: pointer;
@@ -44,7 +47,7 @@ body{
     outline: 0;
     font-size: 20px;
     margin-top: 55px;
-    background-color: #494eea;
+    background-color:crimson;
     color: #fff;
     border-radius: 5px;
     box-shadow: 0 10px 10px rgba(0,0,0,0.1);
